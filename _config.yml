@@ -22,12 +22,12 @@ repository               : "kirinhcl/citruspages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Chenghao Lu" # Name of the author, used in the sidebar and footer
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in UH"
+  bio              : ""
   location         : "Helsinki"
-  employer         : "UH"
+  employer         : "UH & TUM"
   uri              : # URL
   email            : "chenghao.lu@helsinki.fi" 
 
